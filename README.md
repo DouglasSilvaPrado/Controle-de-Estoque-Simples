@@ -32,7 +32,7 @@
   </ul>
   <li>Proxima Versão 0.0.2</li>
   <ul>
-    <li>Sera adicinado a Opção de Vendas</li>
+    <li>Sera adicionado a Opção de Vendas</li>
   </ul>
 </ul>
 
